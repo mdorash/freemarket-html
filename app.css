@@ -3238,6 +3238,7 @@ section .portfolio-wrapper ul {
 .cart-wrapper .cart-contents {
     line-height: 20px;
     padding: 10px 49px 10px 39px;
+    font-size: 12px;
 }
 
 .cart-wrapper .cart-contents:before {

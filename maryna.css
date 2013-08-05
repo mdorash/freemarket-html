@@ -1,0 +1,63 @@
+html{
+    font-family: 'Open Sans',sans-serif;
+
+}
+
+.breadcrumbs  {
+    font-size: 12px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+
+}
+
+body {
+    font-size: 15px;
+
+}
+
+.login-register {
+    margin: 10px 250px 0 0;
+    font-size: 12px;
+}
+
+.text-news {
+    font-size: 12px;
+}
+
+.contact-form-buttons{
+    float: right;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+
+}
+
+.sign-in-form {
+    font-size: 12px;
+}
+
+.orderby {
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+}
+
+.thing-text{
+    font-size: 12px;
+}
+
+.text-want  {
+    font-size: 15px;
+}
+
+.texarea-conversation{
+    height: auto;
+}
+
+.text-green {
+    color: rgb(141, 185, 0);
+}
